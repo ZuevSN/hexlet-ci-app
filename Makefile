@@ -16,6 +16,3 @@ lint:
 	npx eslint .
 
 .PHONY: build
-
-hello:
-	echo "Hello,   world!"
