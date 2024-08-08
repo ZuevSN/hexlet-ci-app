@@ -3,10 +3,7 @@ name: Run linter
 on: [push] 
 
 jobs:
-<<<<<<< HEAD
   testing: 
-=======
-  setup_test_lin: 
     runs-on: ubuntu-latest 
 
     steps: 
