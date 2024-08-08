@@ -18,4 +18,4 @@ lint:
 .PHONY: build
 
 hello:
-	echo "Hello, world!"
+	echo "Hello,  world!"
